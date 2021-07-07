@@ -1,0 +1,27 @@
+#submit {
+    padding: 5px;
+    background-color: lightblue;
+    letter-spacing: .8px;
+    border: none;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.space {
+    padding: 10px;
+    margin: 20px;
+    background-color: lightblue;
+    width: 400px;
+}
+
+.place p {
+    background-color: lightblue;
+    padding: 20px;
+    width: 400px;
+}
+
+#checkinMap {
+    height: 240px;
+    width: 600px;
+    margin: 8px 0px;
+}
